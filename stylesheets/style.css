@@ -46,10 +46,14 @@ a:link, a:visited, a:hover, a:active {
 
 #ks-img img {
   /*width: 200px;*/
-  width: 220px;
+  width: 200px;
   height: auto;
   border-radius: 50%;
   float: left;
+  margin-left: 75px;
+  margin-right: 25px;
+  margin-top: 50px;
+  margin-bottom: 25px;
 }
 
 header {
