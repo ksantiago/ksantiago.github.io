@@ -14,7 +14,7 @@
 .nav-bar {
   width: 100%;
   background-color: #FFFFFF;
-  border-bottom: 1px dotted #7F8C8D;
+  border-bottom: 1px dotted #50B2C1;
   margin-top: 20px;
 }
 
@@ -46,14 +46,9 @@ a:link, a:visited, a:hover, a:active {
 
 #ks-img img {
   /*width: 200px;*/
-  width: 250px;
+  width: 220px;
   height: auto;
   border-radius: 50%;
-  margin: 50px 40px 20px 70px;
-/*  margin-top: 50px;
-  margin-left: 70px;
-  margin-right: 40px;
-  margin-bottom: 20px; */
   float: left;
 }
 
@@ -95,7 +90,7 @@ header {
 }
 
 h3 {
-  color: #E74C3C;
+  font-size: 50px;
   margin-bottom: 20px;
 }
 
@@ -103,12 +98,13 @@ h4 {
   margin-bottom: 15px;
   margin-left: 0;
   font-weight: bold;
+  color: #50B2C1;
 }
 
 section {
   width: 90%;
   margin-left: 50px;
-  margin-top: 50px;
+  margin-top: 60px;
   margin-right: 100px;
 }
 
@@ -129,7 +125,7 @@ section p {
 }
 
 .contact-head {
-  color: #E74C3C;
+  color: #50B2C1;
   font-weight: bold;
 }
 
@@ -138,12 +134,12 @@ section p {
 /***************/
 
 .resume a {
-  color: #E74C3C;
+  color: #E94155;
   cursor: pointer;
 }
 
 .red {
-  color: #E74C3C;
+  color: #E94155;
 }
 
 object {
@@ -178,5 +174,15 @@ object {
 .projects-page img {
   width: 100%;
   border: 1px solid #ECF0F1;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+}
+
+.ea-proj {
+  margin-bottom: 50px;
+}
+
+hr {
+  margin-top: 70px;
+  margin-bottom: 70px;
+  width: 90%;
 }
