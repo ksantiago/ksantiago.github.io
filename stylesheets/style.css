@@ -57,6 +57,7 @@ a:link, a:visited, a:hover, a:active {
 
 #ks-img img {
   /*width: 200px;*/
+  display: none;
   width: 200px;
   height: auto;
   border-radius: 50%;
